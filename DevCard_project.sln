@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCard_Livici", "DevCard_Livici\DevCard_Livici.csproj", "{813D1D54-92F0-4E1D-B1D7-E861BD505016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813D1D54-92F0-4E1D-B1D7-E861BD505016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813D1D54-92F0-4E1D-B1D7-E861BD505016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813D1D54-92F0-4E1D-B1D7-E861BD505016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813D1D54-92F0-4E1D-B1D7-E861BD505016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEFBD43-0D2F-4FBC-BF05-FE3376D17BFC}
+	EndGlobalSection
+EndGlobal
