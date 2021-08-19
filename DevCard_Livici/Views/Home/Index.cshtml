@@ -101,7 +101,10 @@
                 </div>
             </div>
         </section>
-        <partial name="Projects"/>
+        @*<partial name="Projects" />*@
+        @*@await Html.PartialAsync("Projects")*@
+        @await Html.PartialAsync("Projects" , new List<Project>())
+
         <div class="container">
             <hr>
         </div>
